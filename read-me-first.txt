@@ -1,0 +1,43 @@
+       
+ 
+		         Java - series 
+---------------------------------------------------------
+
+
+Note : 
+
+ Locate the folder "instruction-sheet" in the disc.  
+ This contains instructions for installation of the software, the browser 
+ and instructions for the learners.
+
+ Please click on "index.html" first.                                    
+
+ The videos on this disc are best viewed in Firefox and Google Chrome browsers. 	
+
+ We recommend Firefox web browser (latest version) to watch these videos.
+
+ Please note that, you DO NOT NEED INTERNET connection to watch the videos
+ on the Web browser.
+
+ We are in the process of dubbing these tutorials into many Indian languages.
+ These will be available soon.
+ 
+----------------------------------------------------------------------
+
+Credits :
+
+ We are in the process of creating spoken tutorials on various FOSS.  
+ We will also be dubbing all of them into all Indian languages.  
+ All of these will be available at                                  
+ http://spoken-tutorial.org/ and http://spoken-tutorial.org/script    
+                  						 
+ If you want to participate in this activity,     
+ please write to us at:        		        
+ contact@spoken-tutorial.org                            	      
+                  						     
+ Please leave your comments on Java tutorials on the individual    
+ video-pages on the website.     
+
+
+
+
